@@ -1,11 +1,11 @@
 Field_Name,Field_ID
 Engineering,1
-Environmental Science,2
-Computer Science,3
+Computer Science,2
+Environmental Science,3
 Medicine,4
 Psychology,5
-Chemistry,6
-Materials Science,7
+Materials Science,6
+Chemistry,7
 Education,8
 Biology,9
 Sociology,10
@@ -22,4 +22,3 @@ Linguistics,20
 History,21
 Art,22
 Philosophy,23
-Agricultural And Food Sciences,24
