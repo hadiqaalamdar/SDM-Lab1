@@ -1,0 +1,139 @@
+//B-1
+MATCH (p:Paper)-[:Cited_by]->(citing:Paper)
+WITH p, count(citing) AS citation_count
+MATCH (p)-[:Published_in]->(ce:Conference_Edition)-[:Of]->(conf:Conference)
+WITH conf, p.title AS paper_name, citation_count
+ORDER BY conf, citation_count DESC
+WITH conf.Name AS conference, collect({paper: paper_name, citations: citation_count})[0..3] AS top_papers
+RETURN conference, top_papers
+
+//B-2
+MATCH (a:Author)-[:Writes]->(p:Paper)-[:Published_in]->(ce:Conference_Edition)-[:Of]->(conf:Conference)
+WITH conf, a, count(DISTINCT ce) AS editions_count
+WHERE editions_count >= 4
+RETURN conf.Name AS conference, collect(DISTINCT a.Name) AS community_authors
+ORDER BY conference
+
+//B-3
+WITH 2022 AS y // Change this to the year you want to calculate IF for
+
+// Step 1: Get citations in year y for papers published in (y-1) or (y-2)
+MATCH (citing:Paper)-[:Cited_by]->(p:Paper)-[:Published_in]->(j:Journal) //p are papers released in past 2 years in journal j and citing are papers released this year that cited p.
+WHERE p.year IN [y-1, y-2] AND citing.year = y
+WITH j, count(citing) AS total_citations, 2022 as y
+
+// Step 2: Count total papers published in (y-1) and (y-2)
+MATCH (p:Paper)-[:Published_in]->(j)
+WHERE p.year IN [y-1, y-2]
+WITH j, total_citations, count(p) AS total_papers_published
+WHERE total_papers_published > 0 // Avoid division by zero
+
+// Step 3: Compute impact factor
+RETURN j.ID, j.Name AS journal, total_citations, total_papers_published, 
+total_citations * 1.0 / total_papers_published AS impact_factor
+ORDER BY impact_factor DESC
+
+
+//B-4
+MATCH (a:Author)-[:Writes]->(p:Paper)
+OPTIONAL MATCH (p)-[:Cited_by]->(citing:Paper)
+WITH a, p, count(citing) AS citation_count
+ORDER BY a.name, citation_count DESC // Sort papers by citations in descending order
+
+WITH a.Name AS author, collect(citation_count) AS citations_list
+UNWIND range(1, size(citations_list)) AS h // Generate index positions (h)
+WITH author, h 
+WHERE citations_list[h-1] >= h // Check if the h-th paper has at least h citations
+
+RETURN author, max(h) AS h_index
+ORDER BY h_index DESC
+
+//C-1
+MATCH (k:Keyword)
+WHERE k.Name IN [
+  'Physics', 
+  'Chemistry', 
+  'Biology', 
+  'Computer Science', 
+  'Political Science',
+  'Agricultural and Food Sciences'
+]
+WITH collect(k) AS Keywords
+MERGE (c:Community {name: "Science Community"})
+WITH c, Keywords
+UNWIND Keywords AS keyword
+MERGE (c)-[:INCLUDES]->(keyword)
+RETURN c.name AS Community, count(Keywords) AS KeywordCount
+
+
+// C2
+// Find venues (conferences, workshops, journals) related to the Science Community
+MATCH (c:Community {name: "Science Community"})-[:INCLUDES]->(k:Keyword)<-[:About]-(p:Paper)
+WITH c, collect(DISTINCT p) AS communityPapers
+
+// For conferences
+MATCH (conf:Conference)<-[:Of]-(edition:Conference_Edition)<-[:Published_in]-(paper:Paper)
+WITH c, communityPapers, conf, collect(DISTINCT paper) AS confPapers
+WHERE size(confPapers) > 0 AND 
+      size([p IN confPapers WHERE p IN communityPapers]) >= 0.9 * size(confPapers)
+MERGE (conf)-[:RELATED_TO]->(c)
+
+// For journals (separate handling)
+WITH c, communityPapers
+MATCH (journal:Journal)<-[:Published_in]-(paper:Paper)
+WITH c, communityPapers, journal, collect(DISTINCT paper) AS journalPapers
+WHERE size(journalPapers) > 0 AND 
+      size([p IN journalPapers WHERE p IN communityPapers]) >= 0.9 * size(journalPapers)
+MERGE (journal)-[:RELATED_TO]->(c)
+
+
+// C3
+// Find papers from venues related to the Science Community
+MATCH (c:Community {name: "Science Community"})
+MATCH (venue)-[:RELATED_TO]->(c)
+WHERE venue:Conference OR venue:Journal
+WITH c, collect(venue) AS relatedVenues
+
+// For conferences, we need to go through Conference_Edition
+MATCH (conf:Conference)
+WHERE conf IN relatedVenues
+MATCH (paper:Paper)-[:Published_in]->(edition:Conference_Edition)-[:Of]->(conf)
+WITH c, relatedVenues, collect(DISTINCT paper) AS confPapers
+
+// For journals
+MATCH (journal:Journal)
+WHERE journal IN relatedVenues
+MATCH (paper:Paper)-[:Published_in]->(journal)
+WITH c, confPapers, collect(DISTINCT paper) AS journalPapers
+
+// Combine all community papers
+WITH c, confPapers + journalPapers AS communityPapers
+
+// Count citations from papers within the community
+UNWIND communityPapers AS paper
+MATCH (paper)-[:Cited_by]->(citingPaper)
+WHERE citingPaper IN communityPapers
+WITH paper, count(DISTINCT citingPaper) AS citationCount
+ORDER BY citationCount DESC
+LIMIT 100
+
+// Create relationship between these top papers and the community
+MATCH (c:Community {name: "Science Community"})
+MERGE (paper)-[:TOP_PAPER_IN {citations: citationCount}]->(c)
+
+
+// C4
+// Match authors of top papers in the Science Community
+MATCH (c:Community {name: "Science Community"})
+MATCH (paper:Paper)-[:TOP_PAPER_IN]->(c)
+MATCH (author:Author)-[:Writes]->(paper)
+
+// Mark all authors of top papers as potential reviewers
+MERGE (author)-[:POTENTIAL_REVIEWER_FOR]->(c)
+
+// Count papers per author to identify gurus (authors with at least 2 top papers)
+WITH c, author, count(DISTINCT paper) AS paperCount
+WHERE paperCount >= 2
+
+// Mark these authors as gurus
+MERGE (author)-[:GURU_OF {top_paper_count: paperCount}]->(c)
