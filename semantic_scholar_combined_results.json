@@ -1265,8 +1265,8 @@
         "venue": "Neural computing & applications (Print)",
         "year": 2021,
         "referenceCount": 45,
-        "citationCount": 7,
-        "influentialCitationCount": 1,
+        "citationCount": 8,
+        "influentialCitationCount": 0,
         "isOpenAccess": false,
         "openAccessPdf": {
             "url": "",
@@ -1506,7 +1506,7 @@
         "venue": "Advanced NanoBiomed Research",
         "year": 2024,
         "referenceCount": 18,
-        "citationCount": 2,
+        "citationCount": 3,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -1813,7 +1813,7 @@
         "venue": "",
         "year": 2011,
         "referenceCount": 24,
-        "citationCount": 24,
+        "citationCount": 23,
         "influentialCitationCount": 3,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -4108,7 +4108,7 @@
         "venue": "Italian National Conference on Sensors",
         "year": 2023,
         "referenceCount": 154,
-        "citationCount": 86,
+        "citationCount": 90,
         "influentialCitationCount": 4,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -4826,7 +4826,7 @@
         "venue": "Frontiers in Cell and Developmental Biology",
         "year": 2022,
         "referenceCount": 105,
-        "citationCount": 12,
+        "citationCount": 13,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -5355,7 +5355,7 @@
         "venue": "Lecture Notes in Computer Science",
         "year": 1996,
         "referenceCount": 23,
-        "citationCount": 453,
+        "citationCount": 452,
         "influentialCitationCount": 4,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -5427,7 +5427,7 @@
         "venue": "European Journal of Obstetrics, Gynecology, and Reproductive Biology",
         "year": 2022,
         "referenceCount": 63,
-        "citationCount": 11,
+        "citationCount": 12,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -6313,7 +6313,7 @@
         "venue": "Environmental Toxicology",
         "year": 2024,
         "referenceCount": 56,
-        "citationCount": 18,
+        "citationCount": 19,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -6779,7 +6779,7 @@
         "venue": "International Conference on Learning Representations",
         "year": 2017,
         "referenceCount": 57,
-        "citationCount": 102,
+        "citationCount": 103,
         "influentialCitationCount": 7,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -8535,7 +8535,7 @@
         "venue": "IEEE Access",
         "year": 2022,
         "referenceCount": 55,
-        "citationCount": 19,
+        "citationCount": 21,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -8972,7 +8972,7 @@
         "venue": "",
         "year": 2024,
         "referenceCount": 45,
-        "citationCount": 1,
+        "citationCount": 2,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -9061,7 +9061,7 @@
         "year": 2023,
         "referenceCount": 32,
         "citationCount": 3,
-        "influentialCitationCount": 0,
+        "influentialCitationCount": 1,
         "isOpenAccess": true,
         "openAccessPdf": {
             "url": "https://www.mdpi.com/2079-9292/12/12/2715/pdf?version=1686994463",
@@ -10037,7 +10037,7 @@
         "venue": "",
         "year": 2021,
         "referenceCount": 77,
-        "citationCount": 67,
+        "citationCount": 69,
         "influentialCitationCount": 1,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -10550,6 +10550,87 @@
         ]
     },
     {
+        "paperId": "000c3004d2191fd115d1190cca963486e71b9e00",
+        "externalIds": {
+            "DBLP": "journals/tase/LiangLWY25",
+            "DOI": "10.1109/TASE.2024.3513354",
+            "CorpusId": 274693071
+        },
+        "corpusId": 274693071,
+        "publicationVenue": {
+            "id": "1ee52b4c-8c57-4d60-aead-d9ef4255f1e9",
+            "name": "IEEE Transactions on Automation Science and Engineering",
+            "type": "journal",
+            "alternate_names": [
+                "IEEE Trans Autom Sci Eng"
+            ],
+            "issn": "1545-5955",
+            "url": "http://ieeexplore.ieee.org/servlet/opac?punumber=8856"
+        },
+        "url": "https://www.semanticscholar.org/paper/000c3004d2191fd115d1190cca963486e71b9e00",
+        "title": "Trajectory Progress-Based Prioritizing and Intrinsic Reward Mechanism for Robust Training of Robotic Manipulations",
+        "abstract": null,
+        "venue": "IEEE Transactions on Automation Science and Engineering",
+        "year": 2025,
+        "referenceCount": 65,
+        "citationCount": 0,
+        "influentialCitationCount": 0,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+            "url": "",
+            "status": "CLOSED",
+            "license": null,
+            "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TASE.2024.3513354?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TASE.2024.3513354, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "fieldsOfStudy": [
+            "Computer Science"
+        ],
+        "s2FieldsOfStudy": [
+            {
+                "category": "Computer Science",
+                "source": "external"
+            },
+            {
+                "category": "Engineering",
+                "source": "s2-fos-model"
+            },
+            {
+                "category": "Computer Science",
+                "source": "s2-fos-model"
+            }
+        ],
+        "publicationTypes": [
+            "JournalArticle"
+        ],
+        "publicationDate": null,
+        "journal": {
+            "name": "IEEE Transactions on Automation Science and Engineering",
+            "pages": "9829-9842",
+            "volume": "22"
+        },
+        "citationStyles": {
+            "bibtex": "@Article{Liang2025TrajectoryPP,\n author = {Weixiang Liang and Yinlong Liu and Jikun Wang and Zhi-Xin Yang},\n booktitle = {IEEE Transactions on Automation Science and Engineering},\n journal = {IEEE Transactions on Automation Science and Engineering},\n pages = {9829-9842},\n title = {Trajectory Progress-Based Prioritizing and Intrinsic Reward Mechanism for Robust Training of Robotic Manipulations},\n volume = {22},\n year = {2025}\n}\n"
+        },
+        "authors": [
+            {
+                "authorId": "2282355919",
+                "name": "Weixiang Liang"
+            },
+            {
+                "authorId": "2188015654",
+                "name": "Yinlong Liu"
+            },
+            {
+                "authorId": "2167476542",
+                "name": "Jikun Wang"
+            },
+            {
+                "authorId": "2333251016",
+                "name": "Zhi-Xin Yang"
+            }
+        ]
+    },
+    {
         "paperId": "000c7d20256f1d14a417ecb3b5a2b1180d73f142",
         "externalIds": {
             "DOI": "10.1109/ISEDA62518.2024.10617489",
@@ -10718,7 +10799,7 @@
         "venue": "International Journal of Financial Studies",
         "year": 2023,
         "referenceCount": 79,
-        "citationCount": 76,
+        "citationCount": 85,
         "influentialCitationCount": 2,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -11163,7 +11244,7 @@
             "name": "International Journal of Computer Networks and Applications"
         },
         "citationStyles": {
-            "bibtex": "@Article{Dharanyadevi2025Enhancing5E,\n author = {P. Dharanyadevi and Amirthasaravanan Arivunambi and B. Senthilnayaki and Pethuru Raj},\n booktitle = {International Journal of Computer Networks And Applications},\n journal = {International Journal of Computer Networks and Applications},\n title = {Enhancing 5G-VANET Environments with SDN-Based Package Filtering for Improved Networking},\n year = {2025}\n}\n"
+            "bibtex": "@Article{Dharanyadevi2025Enhancing5E,\n author = {P. Dharanyadevi and Amirthasaravanan Arivunambi and B. Senthilnayaki and P. Raj},\n booktitle = {International Journal of Computer Networks And Applications},\n journal = {International Journal of Computer Networks and Applications},\n title = {Enhancing 5G-VANET Environments with SDN-Based Package Filtering for Improved Networking},\n year = {2025}\n}\n"
         },
         "authors": [
             {
@@ -11179,8 +11260,8 @@
                 "name": "B. Senthilnayaki"
             },
             {
-                "authorId": "2348268488",
-                "name": "Pethuru Raj"
+                "authorId": "144191726",
+                "name": "P. Raj"
             }
         ]
     },
@@ -12727,6 +12808,65 @@
         ]
     },
     {
+        "paperId": "000e85d97068faaefb2f65199f829ea97419afb2",
+        "externalIds": {
+            "DOI": "10.36676/jrps.v16.i1.42",
+            "CorpusId": 277365796
+        },
+        "corpusId": 277365796,
+        "publicationVenue": null,
+        "url": "https://www.semanticscholar.org/paper/000e85d97068faaefb2f65199f829ea97419afb2",
+        "title": "The Role of AI and Machine Learning in Automating Tasks and Decision-Making",
+        "abstract": null,
+        "venue": "International Journal for Research Publication and Seminar",
+        "year": 2025,
+        "referenceCount": 7,
+        "citationCount": 0,
+        "influentialCitationCount": 0,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+            "url": "",
+            "status": null,
+            "license": null,
+            "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://api.unpaywall.org/v2/10.36676/jrps.v16.i1.42?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36676/jrps.v16.i1.42, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "fieldsOfStudy": null,
+        "s2FieldsOfStudy": [
+            {
+                "category": "Computer Science",
+                "source": "s2-fos-model"
+            }
+        ],
+        "publicationTypes": [
+            "JournalArticle"
+        ],
+        "publicationDate": "2025-03-05",
+        "journal": {
+            "name": "International Journal for Research Publication and Seminar"
+        },
+        "citationStyles": {
+            "bibtex": "@Article{Vijay2025TheRO,\n author = {Venkata Vijay and Krishna Paruchuru and Perukilakattunirappel Sundareswaran and Shantanu Bindewari},\n booktitle = {International Journal for Research Publication and Seminar},\n journal = {International Journal for Research Publication and Seminar},\n title = {The Role of AI and Machine Learning in Automating Tasks and Decision-Making},\n year = {2025}\n}\n"
+        },
+        "authors": [
+            {
+                "authorId": "2352482402",
+                "name": "Venkata Vijay"
+            },
+            {
+                "authorId": "2352477129",
+                "name": "Krishna Paruchuru"
+            },
+            {
+                "authorId": "2352482133",
+                "name": "Perukilakattunirappel Sundareswaran"
+            },
+            {
+                "authorId": "1413897710",
+                "name": "Shantanu Bindewari"
+            }
+        ]
+    },
+    {
         "paperId": "000e92b31674beec38b90e2d1c08da20f9af5a00",
         "externalIds": {
             "DOI": "10.1109/HORA55278.2022.9799959",
@@ -12799,7 +12939,7 @@
         "venue": "Scientific Journal of Astana IT University",
         "year": 2024,
         "referenceCount": 13,
-        "citationCount": 0,
+        "citationCount": 1,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -13890,7 +14030,7 @@
         "venue": "IEEE Transactions on Network and Service Management",
         "year": 2022,
         "referenceCount": 42,
-        "citationCount": 26,
+        "citationCount": 27,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -14341,7 +14481,7 @@
         "venue": "Nature Communications",
         "year": 2019,
         "referenceCount": 92,
-        "citationCount": 476,
+        "citationCount": 478,
         "influentialCitationCount": 11,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -15981,7 +16121,7 @@
         "venue": "Civil Engineering Journal",
         "year": 2020,
         "referenceCount": 152,
-        "citationCount": 29,
+        "citationCount": 31,
         "influentialCitationCount": 1,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -16350,7 +16490,7 @@
     {
         "paperId": "00129c0f142ae6a14e510a5b7a9ead97417f40bc",
         "externalIds": {
-            "DOI": "10.1109/CICTN64563.2025.10932560",
+            "DOI": "10.1109/cictn64563.2025.10932560",
             "CorpusId": 277320317
         },
         "corpusId": 277320317,
@@ -16360,7 +16500,7 @@
         "abstract": null,
         "venue": "2025 2nd International Conference on Computational Intelligence, Communication Technology and Networking (CICTN)",
         "year": 2025,
-        "referenceCount": 0,
+        "referenceCount": 14,
         "citationCount": 0,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
@@ -16368,7 +16508,7 @@
             "url": "",
             "status": "CLOSED",
             "license": null,
-            "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CICTN64563.2025.10932560?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CICTN64563.2025.10932560, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/cictn64563.2025.10932560?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/cictn64563.2025.10932560, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
         },
         "fieldsOfStudy": null,
         "s2FieldsOfStudy": [
@@ -16402,7 +16542,7 @@
                 "name": "Kunal Jha"
             },
             {
-                "authorId": null,
+                "authorId": "2313275770",
                 "name": "Hasim Ali"
             },
             {
@@ -16651,7 +16791,7 @@
         "venue": "IRE-AIEE-ACM '61 (Western)",
         "year": 1899,
         "referenceCount": 15,
-        "citationCount": 294,
+        "citationCount": 295,
         "influentialCitationCount": 12,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -17438,6 +17578,76 @@
             {
                 "authorId": "2323877918",
                 "name": "Zuraini Othman"
+            }
+        ]
+    },
+    {
+        "paperId": "00138a369a495df91f2ad939df5830073d8fbed8",
+        "externalIds": {
+            "DOI": "10.3390/electronics14071351",
+            "CorpusId": 277422688
+        },
+        "corpusId": 277422688,
+        "publicationVenue": {
+            "id": "ccd8e532-73c6-414f-bc91-271bbb2933e2",
+            "name": "Electronics",
+            "type": "journal",
+            "issn": "1450-5843",
+            "alternate_issns": [
+                "2079-9292",
+                "0883-4989"
+            ],
+            "url": "http://www.electronics.etfbl.net/",
+            "alternate_urls": [
+                "http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-247562",
+                "http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:ch:bel-247562",
+                "https://www.mdpi.com/journal/electronics"
+            ]
+        },
+        "url": "https://www.semanticscholar.org/paper/00138a369a495df91f2ad939df5830073d8fbed8",
+        "title": "Novel Learning Framework with Generative AI X-Ray Images for Deep Neural Network-Based X-Ray Security Inspection of Prohibited Items Detection with You Only Look Once",
+        "abstract": null,
+        "venue": "Electronics",
+        "year": 2025,
+        "referenceCount": 25,
+        "citationCount": 0,
+        "influentialCitationCount": 0,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+            "url": "",
+            "status": null,
+            "license": null,
+            "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://api.unpaywall.org/v2/10.3390/electronics14071351?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/electronics14071351, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "fieldsOfStudy": null,
+        "s2FieldsOfStudy": [
+            {
+                "category": "Computer Science",
+                "source": "s2-fos-model"
+            },
+            {
+                "category": "Engineering",
+                "source": "s2-fos-model"
+            }
+        ],
+        "publicationTypes": [
+            "JournalArticle"
+        ],
+        "publicationDate": "2025-03-28",
+        "journal": {
+            "name": "Electronics"
+        },
+        "citationStyles": {
+            "bibtex": "@Article{Kim2025NovelLF,\n author = {Dongsik Kim and J. Kang},\n booktitle = {Electronics},\n journal = {Electronics},\n title = {Novel Learning Framework with Generative AI X-Ray Images for Deep Neural Network-Based X-Ray Security Inspection of Prohibited Items Detection with You Only Look Once},\n year = {2025}\n}\n"
+        },
+        "authors": [
+            {
+                "authorId": "2352758960",
+                "name": "Dongsik Kim"
+            },
+            {
+                "authorId": "2309107072",
+                "name": "J. Kang"
             }
         ]
     },
@@ -18528,6 +18738,69 @@
         ]
     },
     {
+        "paperId": "0014b0a6685479b16b4a7d830053272a3f00f502",
+        "externalIds": {
+            "DOI": "10.48047/r2mhn978",
+            "CorpusId": 277545358
+        },
+        "corpusId": 277545358,
+        "publicationVenue": null,
+        "url": "https://www.semanticscholar.org/paper/0014b0a6685479b16b4a7d830053272a3f00f502",
+        "title": "Diabetes Diagnosis Using Machine Learning with Cloud Security",
+        "abstract": null,
+        "venue": "Cuestiones de Fisioterapia",
+        "year": 2025,
+        "referenceCount": 0,
+        "citationCount": 0,
+        "influentialCitationCount": 0,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+            "url": "",
+            "status": "CLOSED",
+            "license": null,
+            "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://api.unpaywall.org/v2/10.48047/r2mhn978?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.48047/r2mhn978, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "fieldsOfStudy": null,
+        "s2FieldsOfStudy": [
+            {
+                "category": "Computer Science",
+                "source": "s2-fos-model"
+            },
+            {
+                "category": "Medicine",
+                "source": "s2-fos-model"
+            }
+        ],
+        "publicationTypes": [
+            "JournalArticle"
+        ],
+        "publicationDate": "2025-01-02",
+        "journal": {
+            "name": "Cuestiones de Fisioterapia"
+        },
+        "citationStyles": {
+            "bibtex": "@Article{G2025DiabetesDU,\n author = {Viswanath G and Krishna Prasad K and J. M. Lakshmi and G. Swapna},\n booktitle = {Cuestiones de Fisioterapia},\n journal = {Cuestiones de Fisioterapia},\n title = {Diabetes Diagnosis Using Machine Learning with Cloud Security},\n year = {2025}\n}\n"
+        },
+        "authors": [
+            {
+                "authorId": "2350736856",
+                "name": "Viswanath G"
+            },
+            {
+                "authorId": "2350735446",
+                "name": "Krishna Prasad K"
+            },
+            {
+                "authorId": "2353546584",
+                "name": "J. M. Lakshmi"
+            },
+            {
+                "authorId": "2350735725",
+                "name": "G. Swapna"
+            }
+        ]
+    },
+    {
         "paperId": "0014d789f658a514764f52b1f68e4182a5e9018e",
         "externalIds": {
             "DBLP": "journals/tim/WuSH11",
@@ -18726,7 +18999,7 @@
         "venue": "Journal of medical systems",
         "year": 2018,
         "referenceCount": 88,
-        "citationCount": 58,
+        "citationCount": 59,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -18879,7 +19152,7 @@
         "abstract": null,
         "venue": "Physical Review D",
         "year": 2021,
-        "referenceCount": 28,
+        "referenceCount": 29,
         "citationCount": 2,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
@@ -19716,7 +19989,7 @@
         "venue": "Journal of Ecohumanism",
         "year": 2025,
         "referenceCount": 20,
-        "citationCount": 2,
+        "citationCount": 3,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -20915,7 +21188,7 @@
         "venue": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
         "year": 2021,
         "referenceCount": 50,
-        "citationCount": 30,
+        "citationCount": 31,
         "influentialCitationCount": 3,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -22971,7 +23244,7 @@
         "venue": "Clinical Chemistry",
         "year": 2021,
         "referenceCount": 65,
-        "citationCount": 15,
+        "citationCount": 16,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -24743,7 +25016,7 @@
         "venue": "Computer Communications",
         "year": 2022,
         "referenceCount": 46,
-        "citationCount": 17,
+        "citationCount": 18,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -25613,7 +25886,7 @@
         "venue": "IEEE Transactions on Emerging Topics in Computing",
         "year": 2023,
         "referenceCount": 49,
-        "citationCount": 3,
+        "citationCount": 4,
         "influentialCitationCount": 2,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -28816,7 +29089,7 @@
         "venue": "Remote Sensing",
         "year": 2022,
         "referenceCount": 27,
-        "citationCount": 13,
+        "citationCount": 14,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -29369,7 +29642,7 @@
         "venue": "Environmental science and pollution research international",
         "year": 2024,
         "referenceCount": 137,
-        "citationCount": 1,
+        "citationCount": 2,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -29525,7 +29798,7 @@
         "venue": "IEEE International Joint Conference on Neural Network",
         "year": 2020,
         "referenceCount": 55,
-        "citationCount": 13,
+        "citationCount": 14,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -29967,7 +30240,7 @@
         "venue": "IEEE Sensors Journal",
         "year": 2023,
         "referenceCount": 32,
-        "citationCount": 12,
+        "citationCount": 13,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -31015,7 +31288,7 @@
         "venue": "International Journal of Machine Learning and Cybernetics",
         "year": 2021,
         "referenceCount": 77,
-        "citationCount": 99,
+        "citationCount": 101,
         "influentialCitationCount": 3,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -31191,7 +31464,7 @@
         "venue": "Neural Information Processing Systems",
         "year": 2020,
         "referenceCount": 30,
-        "citationCount": 283,
+        "citationCount": 285,
         "influentialCitationCount": 60,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -31484,7 +31757,7 @@
         "venue": "Computing and Software for Big Science",
         "year": 2020,
         "referenceCount": 67,
-        "citationCount": 118,
+        "citationCount": 119,
         "influentialCitationCount": 2,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -31587,7 +31860,7 @@
         "venue": "Multimedia tools and applications",
         "year": 2020,
         "referenceCount": 46,
-        "citationCount": 66,
+        "citationCount": 67,
         "influentialCitationCount": 1,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -32909,7 +33182,7 @@
         "venue": "Journal of Medical and Biological Engineering",
         "year": 2022,
         "referenceCount": 43,
-        "citationCount": 5,
+        "citationCount": 6,
         "influentialCitationCount": 1,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -33351,7 +33624,7 @@
         "year": 2023,
         "referenceCount": 87,
         "citationCount": 6,
-        "influentialCitationCount": 0,
+        "influentialCitationCount": 1,
         "isOpenAccess": true,
         "openAccessPdf": {
             "url": "https://www.frontiersin.org/articles/10.3389/fpls.2023.1057733/pdf",
@@ -33690,8 +33963,8 @@
         "venue": "Foundations and Trends\u00ae in Theoretical Computer Science",
         "year": 2014,
         "referenceCount": 96,
-        "citationCount": 7357,
-        "influentialCitationCount": 1302,
+        "citationCount": 7395,
+        "influentialCitationCount": 1306,
         "isOpenAccess": true,
         "openAccessPdf": {
             "url": "http://elartu.tntu.edu.ua/bitstream/lib/43865/2/MNPK_2023_Onai_M_V-Comprehensive_comparative_406-407.pdf",
@@ -34918,7 +35191,7 @@
         "venue": "Conference on Computer and Communications Security",
         "year": 2020,
         "referenceCount": 51,
-        "citationCount": 7,
+        "citationCount": 8,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -36092,7 +36365,7 @@
         "venue": "2020 IEEE 14th Dallas Circuits and Systems Conference (DCAS)",
         "year": 2020,
         "referenceCount": 12,
-        "citationCount": 7,
+        "citationCount": 8,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -36607,7 +36880,7 @@
         "venue": "Journal of Artificial Intelligence General science (JAIGS) ISSN:3006-4023",
         "year": 2024,
         "referenceCount": 0,
-        "citationCount": 9,
+        "citationCount": 10,
         "influentialCitationCount": 1,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -37829,7 +38102,7 @@
         "venue": "Big Data and Cognitive Computing",
         "year": 2020,
         "referenceCount": 207,
-        "citationCount": 117,
+        "citationCount": 118,
         "influentialCitationCount": 1,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -38190,6 +38463,87 @@
             {
                 "authorId": "2281791496",
                 "name": "Jie Fu"
+            }
+        ]
+    },
+    {
+        "paperId": "00272b4b7ae8abe36c74b0b04591a1fd678f7c3b",
+        "externalIds": {
+            "ArXiv": "2503.22051",
+            "CorpusId": 277434923
+        },
+        "corpusId": 277434923,
+        "publicationVenue": null,
+        "url": "https://www.semanticscholar.org/paper/00272b4b7ae8abe36c74b0b04591a1fd678f7c3b",
+        "title": "Non-Monotonic Attention-based Read/Write Policy Learning for Simultaneous Translation",
+        "abstract": null,
+        "venue": "",
+        "year": 2025,
+        "referenceCount": 20,
+        "citationCount": 0,
+        "influentialCitationCount": 0,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+            "url": "",
+            "status": null,
+            "license": null,
+            "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://arxiv.org/abs/2503.22051, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "fieldsOfStudy": [
+            "Computer Science"
+        ],
+        "s2FieldsOfStudy": [
+            {
+                "category": "Computer Science",
+                "source": "external"
+            },
+            {
+                "category": "Computer Science",
+                "source": "s2-fos-model"
+            }
+        ],
+        "publicationTypes": null,
+        "publicationDate": "2025-03-28",
+        "journal": null,
+        "citationStyles": {
+            "bibtex": "@Inproceedings{Ahmed2025NonMonotonicAR,\n author = {Zeeshan Ahmed and Frank Seide and Zhe Liu and Rastislav Rabatin and J\u00e1chym Kol\u00e1r and Niko Moritz and Ruiming Xie and Simone Merello and Christian Fuegen},\n title = {Non-Monotonic Attention-based Read/Write Policy Learning for Simultaneous Translation},\n year = {2025}\n}\n"
+        },
+        "authors": [
+            {
+                "authorId": "2324584144",
+                "name": "Zeeshan Ahmed"
+            },
+            {
+                "authorId": "2243280567",
+                "name": "Frank Seide"
+            },
+            {
+                "authorId": "2352984351",
+                "name": "Zhe Liu"
+            },
+            {
+                "authorId": "3422414",
+                "name": "Rastislav Rabatin"
+            },
+            {
+                "authorId": "30380885",
+                "name": "J\u00e1chym Kol\u00e1r"
+            },
+            {
+                "authorId": "72995245",
+                "name": "Niko Moritz"
+            },
+            {
+                "authorId": "2280068238",
+                "name": "Ruiming Xie"
+            },
+            {
+                "authorId": "2327432701",
+                "name": "Simone Merello"
+            },
+            {
+                "authorId": "39547770",
+                "name": "Christian Fuegen"
             }
         ]
     },
@@ -38887,7 +39241,7 @@
         "venue": "IEEE Journal of Translational Engineering in Health and Medicine",
         "year": 2017,
         "referenceCount": 44,
-        "citationCount": 57,
+        "citationCount": 58,
         "influentialCitationCount": 4,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -39749,7 +40103,7 @@
         "venue": "International Conference on Computing Communication and Networking Technologies",
         "year": 2023,
         "referenceCount": 28,
-        "citationCount": 1,
+        "citationCount": 2,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -40760,7 +41114,7 @@
         "venue": "IEEE International Conference on Smart Grid Communications",
         "year": 2022,
         "referenceCount": 22,
-        "citationCount": 7,
+        "citationCount": 8,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -42997,7 +43351,7 @@
         "abstract": "A bstractHigh-pT Higgs production at hadron colliders provides a direct probe of the internal structure of the gg \u2192 H loop with the H\u2192bb\u00af$$ H\\to b\\overline{b} $$ decay offering the most statistics due to the large branching ratio. Despite the overwhelming QCD background, recent advances in jet substructure have put the observation of the gg\u2192H\u2192bb\u00af$$ gg\\to H\\to b\\overline{b} $$ channel at the LHC within the realm of possibility. In order to enhance the sensitivity to this process, we develop a two-stream convolutional neural network, with one stream acting on jet information and one using global event properties. The neural network significantly increases the discovery potential of a Higgs signal, both for high-pT Standard Model production as well for possible beyond the Standard Model contributions. Unlike most studies for boosted hadronically decaying massive particles, the boosted Higgs search is unique because double b-tagging rejects nearly all background processes that do not have two hard prongs. In this context \u2014 which goes beyond state-of-the-art two-prong tagging \u2014 the network is studied to identify the origin of the additional information leading to the increased significance. The procedures described here are also applicable to related final states where they can be used to identify additional sources of discrimination power that are not being exploited by current techniques.",
         "venue": "Journal of High Energy Physics",
         "year": 2018,
-        "referenceCount": 110,
+        "referenceCount": 111,
         "citationCount": 28,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
@@ -43578,7 +43932,7 @@
         "venue": "Renal Failure",
         "year": 2024,
         "referenceCount": 30,
-        "citationCount": 7,
+        "citationCount": 8,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -44178,7 +44532,7 @@
         "venue": "International Conference on Machine Learning",
         "year": 2016,
         "referenceCount": 40,
-        "citationCount": 77,
+        "citationCount": 78,
         "influentialCitationCount": 10,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -46550,7 +46904,7 @@
         "venue": "Engineering computations",
         "year": 2021,
         "referenceCount": 62,
-        "citationCount": 105,
+        "citationCount": 106,
         "influentialCitationCount": 1,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -47881,7 +48235,7 @@
         "venue": "",
         "year": 2015,
         "referenceCount": 52,
-        "citationCount": 215,
+        "citationCount": 218,
         "influentialCitationCount": 5,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -48150,7 +48504,7 @@
         "year": 2020,
         "referenceCount": 59,
         "citationCount": 52,
-        "influentialCitationCount": 0,
+        "influentialCitationCount": 1,
         "isOpenAccess": true,
         "openAccessPdf": {
             "url": "https://arxiv.org/pdf/2004.13605",
@@ -48777,7 +49131,7 @@
         "venue": "Inf.",
         "year": 2022,
         "referenceCount": 96,
-        "citationCount": 68,
+        "citationCount": 72,
         "influentialCitationCount": 1,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -49838,7 +50192,7 @@
         "venue": "Applied Sciences",
         "year": 2022,
         "referenceCount": 28,
-        "citationCount": 45,
+        "citationCount": 48,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -50120,7 +50474,7 @@
                 "name": "Tian Lan"
             },
             {
-                "authorId": null,
+                "authorId": "2352832874",
                 "name": "Shutong Yang"
             },
             {
@@ -50477,7 +50831,7 @@
         "venue": "Found. Trends Mach. Learn.",
         "year": 2016,
         "referenceCount": 272,
-        "citationCount": 472,
+        "citationCount": 474,
         "influentialCitationCount": 31,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -51131,7 +51485,7 @@
         "venue": "IEEE journal of biomedical and health informatics",
         "year": 2021,
         "referenceCount": 0,
-        "citationCount": 55,
+        "citationCount": 56,
         "influentialCitationCount": 1,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -51208,7 +51562,7 @@
         "venue": "Neural computing & applications (Print)",
         "year": 2023,
         "referenceCount": 29,
-        "citationCount": 5,
+        "citationCount": 6,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -52800,8 +53154,8 @@
         "venue": "Neural Information Processing Systems",
         "year": 2019,
         "referenceCount": 62,
-        "citationCount": 1204,
-        "influentialCitationCount": 264,
+        "citationCount": 1214,
+        "influentialCitationCount": 265,
         "isOpenAccess": false,
         "openAccessPdf": {
             "url": "",
@@ -53314,7 +53668,7 @@
         "venue": "Monthly notices of the Royal Astronomical Society",
         "year": 2019,
         "referenceCount": 36,
-        "citationCount": 10,
+        "citationCount": 11,
         "influentialCitationCount": 4,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -53906,7 +54260,7 @@
         "venue": "ACM Computing Surveys",
         "year": 2020,
         "referenceCount": 158,
-        "citationCount": 198,
+        "citationCount": 201,
         "influentialCitationCount": 7,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -54174,7 +54528,7 @@
         "venue": "",
         "year": 1996,
         "referenceCount": 0,
-        "citationCount": 17,
+        "citationCount": 18,
         "influentialCitationCount": 1,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -55273,7 +55627,7 @@
         "abstract": null,
         "venue": "Geospatial Health",
         "year": 2025,
-        "referenceCount": 43,
+        "referenceCount": 71,
         "citationCount": 0,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
@@ -55508,8 +55862,8 @@
         "venue": "International Journal of Molecular Sciences",
         "year": 2021,
         "referenceCount": 52,
-        "citationCount": 84,
-        "influentialCitationCount": 7,
+        "citationCount": 86,
+        "influentialCitationCount": 8,
         "isOpenAccess": true,
         "openAccessPdf": {
             "url": "https://www.mdpi.com/1422-0067/22/2/606/pdf?version=1610359128",
@@ -56433,7 +56787,7 @@
         "venue": "CAAI Transactions on Intelligence Technology",
         "year": 2019,
         "referenceCount": 98,
-        "citationCount": 211,
+        "citationCount": 213,
         "influentialCitationCount": 11,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -58230,17 +58584,27 @@
         "paperId": "003bfdcb01115ac4c5e899fa1726a95e93d2c785",
         "externalIds": {
             "ArXiv": "2503.01598",
+            "DBLP": "journals/corr/abs-2503-01598",
+            "DOI": "10.48550/arXiv.2503.01598",
             "CorpusId": 276774268
         },
         "corpusId": 276774268,
-        "publicationVenue": null,
+        "publicationVenue": {
+            "id": "1901e811-ee72-4b20-8f7e-de08cd395a10",
+            "name": "arXiv.org",
+            "alternate_names": [
+                "ArXiv"
+            ],
+            "issn": "2331-8422",
+            "url": "https://arxiv.org"
+        },
         "url": "https://www.semanticscholar.org/paper/003bfdcb01115ac4c5e899fa1726a95e93d2c785",
         "title": "Heterogeneity Matters even More in Distributed Learning: Study from Generalization Perspective",
         "abstract": null,
-        "venue": "",
+        "venue": "arXiv.org",
         "year": 2025,
         "referenceCount": 25,
-        "citationCount": 0,
+        "citationCount": 1,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -58271,11 +58635,16 @@
                 "source": "s2-fos-model"
             }
         ],
-        "publicationTypes": null,
+        "publicationTypes": [
+            "JournalArticle"
+        ],
         "publicationDate": "2025-03-03",
-        "journal": null,
+        "journal": {
+            "name": "ArXiv",
+            "volume": "abs/2503.01598"
+        },
         "citationStyles": {
-            "bibtex": "@Inproceedings{Kavian2025HeterogeneityME,\n author = {Masoud Kavian and Milad Sefidgaran and Abdellatif Zaidi and Romain Chor},\n title = {Heterogeneity Matters even More in Distributed Learning: Study from Generalization Perspective},\n year = {2025}\n}\n"
+            "bibtex": "@Article{Kavian2025HeterogeneityME,\n author = {Masoud Kavian and Milad Sefidgaran and Abdellatif Zaidi and Romain Chor},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {Heterogeneity Matters even More in Distributed Learning: Study from Generalization Perspective},\n volume = {abs/2503.01598},\n year = {2025}\n}\n"
         },
         "authors": [
             {
@@ -59164,7 +59533,7 @@
         "venue": "International Conference on Network and System Security",
         "year": 2019,
         "referenceCount": 33,
-        "citationCount": 14,
+        "citationCount": 15,
         "influentialCitationCount": 6,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -60399,7 +60768,7 @@
         "venue": "Journal of Computer Science",
         "year": 2021,
         "referenceCount": 61,
-        "citationCount": 29,
+        "citationCount": 30,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -60773,7 +61142,7 @@
         "venue": "arXiv.org",
         "year": 2018,
         "referenceCount": 23,
-        "citationCount": 412,
+        "citationCount": 413,
         "influentialCitationCount": 13,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -61161,7 +61530,7 @@
         },
         "authors": [
             {
-                "authorId": "115462866",
+                "authorId": "2353483101",
                 "name": "E. Jayanthi"
             },
             {
@@ -61187,6 +61556,82 @@
             {
                 "authorId": "9441219",
                 "name": "Raja Marappan"
+            }
+        ]
+    },
+    {
+        "paperId": "003ee887e31ff7b7ef463fecdbcd9478afc12652",
+        "externalIds": {
+            "DOI": "10.1109/ACOIT62457.2024.10939476",
+            "CorpusId": 277499817
+        },
+        "corpusId": 277499817,
+        "publicationVenue": null,
+        "url": "https://www.semanticscholar.org/paper/003ee887e31ff7b7ef463fecdbcd9478afc12652",
+        "title": "AI-Driven Optimization of EV Charging:Enhancing Efficiency and Grid Stability",
+        "abstract": null,
+        "venue": "2024 Asian Conference on Intelligent Technologies (ACOIT)",
+        "year": 2024,
+        "referenceCount": 16,
+        "citationCount": 0,
+        "influentialCitationCount": 0,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+            "url": "",
+            "status": null,
+            "license": null,
+            "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACOIT62457.2024.10939476?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACOIT62457.2024.10939476, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "fieldsOfStudy": null,
+        "s2FieldsOfStudy": [
+            {
+                "category": "Engineering",
+                "source": "s2-fos-model"
+            },
+            {
+                "category": "Environmental Science",
+                "source": "s2-fos-model"
+            },
+            {
+                "category": "Computer Science",
+                "source": "s2-fos-model"
+            }
+        ],
+        "publicationTypes": [
+            "Conference"
+        ],
+        "publicationDate": "2024-09-06",
+        "journal": {
+            "name": "2024 Asian Conference on Intelligent Technologies (ACOIT)",
+            "pages": "1-6"
+        },
+        "citationStyles": {
+            "bibtex": "@Conference{Ramkumar2024AIDrivenOO,\n author = {G. Ramkumar and Senthilkumar Durairajan and L. Rajeshkumar and M. Sharavanan and K. Chandana and P. Chandrasekar},\n booktitle = {2024 Asian Conference on Intelligent Technologies (ACOIT)},\n journal = {2024 Asian Conference on Intelligent Technologies (ACOIT)},\n pages = {1-6},\n title = {AI-Driven Optimization of EV Charging:Enhancing Efficiency and Grid Stability},\n year = {2024}\n}\n"
+        },
+        "authors": [
+            {
+                "authorId": "2137917742",
+                "name": "G. Ramkumar"
+            },
+            {
+                "authorId": "2353258770",
+                "name": "Senthilkumar Durairajan"
+            },
+            {
+                "authorId": "2344258767",
+                "name": "L. Rajeshkumar"
+            },
+            {
+                "authorId": "2353268723",
+                "name": "M. Sharavanan"
+            },
+            {
+                "authorId": "2334768964",
+                "name": "K. Chandana"
+            },
+            {
+                "authorId": "2321613914",
+                "name": "P. Chandrasekar"
             }
         ]
     },
@@ -61462,7 +61907,7 @@
         "venue": "Frontiers in Human Neuroscience",
         "year": 2023,
         "referenceCount": 61,
-        "citationCount": 44,
+        "citationCount": 45,
         "influentialCitationCount": 2,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -61537,7 +61982,7 @@
         "venue": "Energy Reports",
         "year": 2022,
         "referenceCount": 21,
-        "citationCount": 8,
+        "citationCount": 9,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -61909,7 +62354,7 @@
         "venue": "International Workshop on the Design of Reliable Communication Networks",
         "year": 2024,
         "referenceCount": 21,
-        "citationCount": 7,
+        "citationCount": 8,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -61987,7 +62432,7 @@
         "year": 2017,
         "referenceCount": 47,
         "citationCount": 79,
-        "influentialCitationCount": 10,
+        "influentialCitationCount": 9,
         "isOpenAccess": false,
         "openAccessPdf": {
             "url": "",
@@ -62337,7 +62782,7 @@
         "venue": "IEEE journal of biomedical and health informatics",
         "year": 2021,
         "referenceCount": 0,
-        "citationCount": 18,
+        "citationCount": 19,
         "influentialCitationCount": 1,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -62502,7 +62947,7 @@
         "venue": "IEEE Access",
         "year": 2024,
         "referenceCount": 102,
-        "citationCount": 0,
+        "citationCount": 2,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -62954,7 +63399,7 @@
         "venue": "Frontiers in Ecology and Evolution",
         "year": 2023,
         "referenceCount": 62,
-        "citationCount": 14,
+        "citationCount": 15,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -63142,7 +63587,7 @@
         "venue": "BMC Emergency Medicine",
         "year": 2022,
         "referenceCount": 29,
-        "citationCount": 6,
+        "citationCount": 7,
         "influentialCitationCount": 1,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -63522,8 +63967,8 @@
         "venue": "IEEE Access",
         "year": 2021,
         "referenceCount": 56,
-        "citationCount": 48,
-        "influentialCitationCount": 2,
+        "citationCount": 51,
+        "influentialCitationCount": 3,
         "isOpenAccess": true,
         "openAccessPdf": {
             "url": "https://ieeexplore.ieee.org/ielx7/6287639/9312710/09409047.pdf",
@@ -63604,7 +64049,7 @@
         "venue": "Applied Soft Computing",
         "year": 2023,
         "referenceCount": 43,
-        "citationCount": 29,
+        "citationCount": 31,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -63760,7 +64205,7 @@
         "year": 2022,
         "referenceCount": 85,
         "citationCount": 55,
-        "influentialCitationCount": 6,
+        "influentialCitationCount": 5,
         "isOpenAccess": true,
         "openAccessPdf": {
             "url": "https://arxiv.org/pdf/2206.07975",
@@ -63831,7 +64276,7 @@
         "venue": "IEEE transactions on intelligent transportation systems (Print)",
         "year": 2025,
         "referenceCount": 0,
-        "citationCount": 0,
+        "citationCount": 1,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -65012,7 +65457,7 @@
         "venue": "Computers Materials & Continua",
         "year": 2020,
         "referenceCount": 34,
-        "citationCount": 19,
+        "citationCount": 20,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -68641,7 +69086,7 @@
         "venue": "Expert systems with applications",
         "year": 2024,
         "referenceCount": 201,
-        "citationCount": 3,
+        "citationCount": 4,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -69682,7 +70127,7 @@
         "venue": "Information Security Journal",
         "year": 2015,
         "referenceCount": 26,
-        "citationCount": 52,
+        "citationCount": 53,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -70382,7 +70827,7 @@
         "venue": "Journal of Nursing Scholarship",
         "year": 2022,
         "referenceCount": 31,
-        "citationCount": 16,
+        "citationCount": 17,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -71016,7 +71461,7 @@
         "venue": "Algorithms",
         "year": 2018,
         "referenceCount": 33,
-        "citationCount": 6,
+        "citationCount": 7,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -71179,7 +71624,7 @@
         "venue": "Communications Biology",
         "year": 2021,
         "referenceCount": 55,
-        "citationCount": 29,
+        "citationCount": 30,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -72302,7 +72747,7 @@
             "pages": "1-6"
         },
         "citationStyles": {
-            "bibtex": "@Conference{Abitha2024ArmorGR,\n author = {S.B. Abitha and R. Santhoshi and B. B. Sangameswaran and Kondooru Shivashanker and S. Balakrishnan and Tharun V},\n booktitle = {IEEE International Conference on Circuits and Systems for Communications},\n journal = {2024 International Conference on Computing, Sciences and Communications (ICCSC)},\n pages = {1-6},\n title = {Armor Guard: Revolutionizing Motorcycle Safety with Smart Helmet},\n year = {2024}\n}\n"
+            "bibtex": "@Conference{Abitha2024ArmorGR,\n author = {S.B. Abitha and R. Santhoshi and B. B. Sangameswaran and K. Shivashanker and S. Balakrishnan and Tharun V},\n booktitle = {IEEE International Conference on Circuits and Systems for Communications},\n journal = {2024 International Conference on Computing, Sciences and Communications (ICCSC)},\n pages = {1-6},\n title = {Armor Guard: Revolutionizing Motorcycle Safety with Smart Helmet},\n year = {2024}\n}\n"
         },
         "authors": [
             {
@@ -72319,7 +72764,7 @@
             },
             {
                 "authorId": "2340238891",
-                "name": "Kondooru Shivashanker"
+                "name": "K. Shivashanker"
             },
             {
                 "authorId": "2340238552",
@@ -72826,7 +73271,7 @@
         "venue": "New Journal of Physics",
         "year": 2021,
         "referenceCount": 68,
-        "citationCount": 19,
+        "citationCount": 20,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -72972,7 +73417,7 @@
         "venue": "Knowledge and Information Systems",
         "year": 2017,
         "referenceCount": 120,
-        "citationCount": 302,
+        "citationCount": 305,
         "influentialCitationCount": 4,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -73488,7 +73933,7 @@
         "venue": "",
         "year": 2021,
         "referenceCount": 44,
-        "citationCount": 30,
+        "citationCount": 31,
         "influentialCitationCount": 1,
         "isOpenAccess": true,
         "openAccessPdf": {
@@ -73983,8 +74428,10 @@
     {
         "paperId": "004c1a20d6d44cc80e80000f136874a42a052472",
         "externalIds": {
+            "PubMedCentral": "11961994",
             "DOI": "10.3389/fmicb.2025.1549260",
-            "CorpusId": 277186938
+            "CorpusId": 277186938,
+            "PubMed": "40177478"
         },
         "corpusId": 277186938,
         "publicationVenue": {
@@ -74007,7 +74454,7 @@
         "abstract": "Vibrio parahaemolyticus is the leading cause of illnesses and outbreaks linked to seafood consumption across the globe. Understanding how this pathogen may be adapted to persist along the farm-to-table supply chain has applications for addressing food safety. This study utilized machine learning to develop robust models classifying genomic diversity of V. parahaemolyticus that was isolated from environmental (n\u202f=\u202f176), seafood (n\u202f=\u202f975), and clinical (n\u202f=\u202f865) sample origins. We constructed a pangenome of the respective genome assemblies and employed random forest algorithm to develop predictive models to identify gene clusters encoding metabolism, virulence, and antibiotic resistance that were associated with isolate source type. Comparison of genomes of all seafood-clinical isolates showed high balanced accuracy (\u22650.80) and Area Under the Receiver Operating Characteristics curve (\u22650.87) for all of these functional features. Major virulence factors including tdh, trh, type III secretion system-related genes, and four alpha-hemolysin genes (hlyA, hlyB, hlyC, and hlyD) were identified as important differentiating factors in our seafood-clinical virulence model, underscoring the need for further investigation. Significant patterns for AMR genes differing among seafood and clinical samples were revealed from our model and genes conferring to tetracycline, elfamycin, and multidrug (phenicol antibiotic, diaminopyrimidine antibiotic, and fluoroquinolone antibiotic) resistance were identified as the top three key variables. These findings provide crucial insights into the development of effective surveillance and management strategies to address the public health threats associated with V. parahaemolyticus.",
         "venue": "Frontiers in Microbiology",
         "year": 2025,
-        "referenceCount": 67,
+        "referenceCount": 72,
         "citationCount": 0,
         "influentialCitationCount": 0,
         "isOpenAccess": true,
@@ -74015,10 +74462,16 @@
             "url": "https://doi.org/10.3389/fmicb.2025.1549260",
             "status": "GOLD",
             "license": "CCBY",
-            "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.3389/fmicb.2025.1549260?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fmicb.2025.1549260, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+            "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11961994, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
         },
-        "fieldsOfStudy": null,
+        "fieldsOfStudy": [
+            "Medicine"
+        ],
         "s2FieldsOfStudy": [
+            {
+                "category": "Medicine",
+                "source": "external"
+            },
             {
                 "category": "Environmental Science",
                 "source": "s2-fos-model"
@@ -74037,10 +74490,11 @@
         ],
         "publicationDate": "2025-03-19",
         "journal": {
-            "name": "Frontiers in Microbiology"
+            "name": "Frontiers in Microbiology",
+            "volume": "16"
         },
         "citationStyles": {
-            "bibtex": "@Article{Feng2025BioinformaticsCW,\n author = {Shuyi Feng and Padmini Ramachandran and Ryan A. Blaustein and Abani K. Pradhan},\n booktitle = {Frontiers in Microbiology},\n journal = {Frontiers in Microbiology},\n title = {Bioinformatics combined with machine learning unravels differences among environmental, seafood, and clinical isolates of Vibrio parahaemolyticus},\n year = {2025}\n}\n"
+            "bibtex": "@Article{Feng2025BioinformaticsCW,\n author = {Shuyi Feng and Padmini Ramachandran and Ryan A. Blaustein and A. Pradhan},\n booktitle = {Frontiers in Microbiology},\n journal = {Frontiers in Microbiology},\n title = {Bioinformatics combined with machine learning unravels differences among environmental, seafood, and clinical isolates of Vibrio parahaemolyticus},\n volume = {16},\n year = {2025}\n}\n"
         },
         "authors": [
             {
@@ -74056,8 +74510,8 @@
                 "name": "Ryan A. Blaustein"
             },
             {
-                "authorId": "2351185086",
-                "name": "Abani K. Pradhan"
+                "authorId": "145666440",
+                "name": "A. Pradhan"
             }
         ]
     },
@@ -74379,7 +74833,7 @@
         "venue": "arXiv.org",
         "year": 2023,
         "referenceCount": 83,
-        "citationCount": 2,
+        "citationCount": 3,
         "influentialCitationCount": 0,
         "isOpenAccess": false,
         "openAccessPdf": {
@@ -75706,486 +76160,6 @@
             {
                 "authorId": "2070173963",
                 "name": "Alison Robertson"
-            }
-        ]
-    },
-    {
-        "paperId": "004de135b5e829a2bdb1cce0258745bcf005d1ec",
-        "externalIds": {
-            "DBLP": "journals/omics/Patel03",
-            "MAG": "1490253884",
-            "DOI": "10.1089/153623103322006670",
-            "CorpusId": 16136982,
-            "PubMed": "12831563"
-        },
-        "corpusId": 16136982,
-        "publicationVenue": {
-            "id": "b5cbf8ea-5e12-4703-86f7-36ffb889b13f",
-            "name": "Omics",
-            "type": "journal",
-            "alternate_names": [
-                "Omics J Integr Biology",
-                "Omics A Journal of Integrative Biology"
-            ],
-            "issn": "1536-2310",
-            "url": "http://www.liebertonline.com/omi",
-            "alternate_urls": [
-                "https://www.liebertpub.com/loi/omi",
-                "http://www.liebertpub.com/omi",
-                "https://home.liebertpub.com/publications/omics-a-journal-of-integrative-biology/43"
-            ]
-        },
-        "url": "https://www.semanticscholar.org/paper/004de135b5e829a2bdb1cce0258745bcf005d1ec",
-        "title": "The Role of Declarative Querying in Bioinformatics",
-        "abstract": null,
-        "venue": "Omics",
-        "year": 2003,
-        "referenceCount": 20,
-        "citationCount": 21,
-        "influentialCitationCount": 0,
-        "isOpenAccess": true,
-        "openAccessPdf": {
-            "url": "http://deepblue.lib.umich.edu/bitstream/2027.42/63375/1/153623103322006670.pdf",
-            "status": "GREEN",
-            "license": null,
-            "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://api.unpaywall.org/v2/10.1089/153623103322006670?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1089/153623103322006670, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
-        },
-        "fieldsOfStudy": [
-            "Medicine",
-            "Computer Science"
-        ],
-        "s2FieldsOfStudy": [
-            {
-                "category": "Medicine",
-                "source": "external"
-            },
-            {
-                "category": "Computer Science",
-                "source": "external"
-            },
-            {
-                "category": "Biology",
-                "source": "s2-fos-model"
-            },
-            {
-                "category": "Computer Science",
-                "source": "s2-fos-model"
-            }
-        ],
-        "publicationTypes": [
-            "JournalArticle"
-        ],
-        "publicationDate": null,
-        "journal": {
-            "name": "Omics : a journal of integrative biology",
-            "pages": "\n          89-91\n        ",
-            "volume": "7 1"
-        },
-        "citationStyles": {
-            "bibtex": "@Article{Patel2003TheRO,\n author = {J. Patel},\n booktitle = {Omics},\n journal = {Omics : a journal of integrative biology},\n pages = {\n          89-91\n        },\n title = {The Role of Declarative Querying in Bioinformatics},\n volume = {7 1},\n year = {2003}\n}\n"
-        },
-        "authors": [
-            {
-                "authorId": "49111633",
-                "name": "J. Patel"
-            }
-        ]
-    },
-    {
-        "paperId": "004deb308e8348ac83322dfa8ae012e9373947c0",
-        "externalIds": {
-            "DOI": "10.1038/s41580-023-00647-2",
-            "CorpusId": 261621174,
-            "PubMed": "37684425"
-        },
-        "corpusId": 261621174,
-        "publicationVenue": {
-            "id": "b3b8f19c-c31b-4847-bc7b-66a18aebedfe",
-            "name": "Nature reviews. Molecular cell biology",
-            "type": "journal",
-            "alternate_names": [
-                "Nat Rev Mol Cell Biology",
-                "Nature Reviews Molecular Cell Biology",
-                "Nat rev Mol cell biology"
-            ],
-            "issn": "1471-0072",
-            "url": "https://www.nature.com/nrm/",
-            "alternate_urls": [
-                "http://www.nature.com/nrm/index.html"
-            ]
-        },
-        "url": "https://www.semanticscholar.org/paper/004deb308e8348ac83322dfa8ae012e9373947c0",
-        "title": "Mechanisms and pathology of protein misfolding and aggregation",
-        "abstract": null,
-        "venue": "Nature reviews. Molecular cell biology",
-        "year": 2023,
-        "referenceCount": 401,
-        "citationCount": 79,
-        "influentialCitationCount": 1,
-        "isOpenAccess": false,
-        "openAccessPdf": {
-            "url": "",
-            "status": "CLOSED",
-            "license": null,
-            "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41580-023-00647-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41580-023-00647-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
-        },
-        "fieldsOfStudy": [
-            "Medicine"
-        ],
-        "s2FieldsOfStudy": [
-            {
-                "category": "Medicine",
-                "source": "external"
-            },
-            {
-                "category": "Medicine",
-                "source": "s2-fos-model"
-            },
-            {
-                "category": "Biology",
-                "source": "s2-fos-model"
-            }
-        ],
-        "publicationTypes": [
-            "Review",
-            "JournalArticle"
-        ],
-        "publicationDate": "2023-09-08",
-        "journal": {
-            "name": "Nature Reviews Molecular Cell Biology",
-            "pages": "912 - 933",
-            "volume": "24"
-        },
-        "citationStyles": {
-            "bibtex": "@Article{Louros2023MechanismsAP,\n author = {Nikolaos N. Louros and J. Schymkowitz and F. Rousseau},\n booktitle = {Nature reviews. Molecular cell biology},\n journal = {Nature Reviews Molecular Cell Biology},\n pages = {912 - 933},\n title = {Mechanisms and pathology of protein misfolding and aggregation},\n volume = {24},\n year = {2023}\n}\n"
-        },
-        "authors": [
-            {
-                "authorId": "39736653",
-                "name": "Nikolaos N. Louros"
-            },
-            {
-                "authorId": "1973139",
-                "name": "J. Schymkowitz"
-            },
-            {
-                "authorId": "145593989",
-                "name": "F. Rousseau"
-            }
-        ]
-    },
-    {
-        "paperId": "004df7c33b09427b5a8c1892ce4fb9646b4393e2",
-        "externalIds": {
-            "CorpusId": 268291232
-        },
-        "corpusId": 268291232,
-        "publicationVenue": null,
-        "url": "https://www.semanticscholar.org/paper/004df7c33b09427b5a8c1892ce4fb9646b4393e2",
-        "title": "The Intersection of Machine Learning, Zakat, and Transportation for a Healthy Society",
-        "abstract": null,
-        "venue": "",
-        "year": null,
-        "referenceCount": 25,
-        "citationCount": 1,
-        "influentialCitationCount": 0,
-        "isOpenAccess": false,
-        "openAccessPdf": {
-            "url": "",
-            "status": null,
-            "license": null
-        },
-        "fieldsOfStudy": null,
-        "s2FieldsOfStudy": [
-            {
-                "category": "Computer Science",
-                "source": "s2-fos-model"
-            },
-            {
-                "category": "Medicine",
-                "source": "s2-fos-model"
-            },
-            {
-                "category": "Engineering",
-                "source": "s2-fos-model"
-            },
-            {
-                "category": "Environmental Science",
-                "source": "s2-fos-model"
-            }
-        ],
-        "publicationTypes": null,
-        "publicationDate": null,
-        "journal": null,
-        "citationStyles": {
-            "bibtex": "@Misc{None,\n author = {Moch Yusuf Asyhari and Pratiwi Susanti and Juwari and Khairul Adilah Ahmad and Norin Rahayu Shamsuddin and T. Tajuddin},\n title = {The Intersection of Machine Learning, Zakat, and Transportation for a Healthy Society}\n}\n"
-        },
-        "authors": [
-            {
-                "authorId": "1582709833",
-                "name": "Moch Yusuf Asyhari"
-            },
-            {
-                "authorId": "2290421985",
-                "name": "Pratiwi Susanti"
-            },
-            {
-                "authorId": "2290422457",
-                "name": "Juwari"
-            },
-            {
-                "authorId": "2290423189",
-                "name": "Khairul Adilah Ahmad"
-            },
-            {
-                "authorId": "2139939087",
-                "name": "Norin Rahayu Shamsuddin"
-            },
-            {
-                "authorId": "33796441",
-                "name": "T. Tajuddin"
-            }
-        ]
-    },
-    {
-        "paperId": "004e028fc691990fb9bdd2aa1865284b2eff584f",
-        "externalIds": {
-            "MAG": "2071234260",
-            "DOI": "10.1117/12.164929",
-            "CorpusId": 110503118
-        },
-        "corpusId": 110503118,
-        "publicationVenue": null,
-        "url": "https://www.semanticscholar.org/paper/004e028fc691990fb9bdd2aa1865284b2eff584f",
-        "title": "ROTEX: space telerobotic flight experiment",
-        "abstract": null,
-        "venue": "Other Conferences",
-        "year": 1993,
-        "referenceCount": 23,
-        "citationCount": 6,
-        "influentialCitationCount": 0,
-        "isOpenAccess": false,
-        "openAccessPdf": {
-            "url": "",
-            "status": "CLOSED",
-            "license": null,
-            "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.164929?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.164929, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
-        },
-        "fieldsOfStudy": [
-            "Engineering"
-        ],
-        "s2FieldsOfStudy": [
-            {
-                "category": "Engineering",
-                "source": "external"
-            },
-            {
-                "category": "Engineering",
-                "source": "s2-fos-model"
-            },
-            {
-                "category": "Computer Science",
-                "source": "s2-fos-model"
-            }
-        ],
-        "publicationTypes": [
-            "Conference"
-        ],
-        "publicationDate": "1993-12-21",
-        "journal": {
-            "volume": "2057"
-        },
-        "citationStyles": {
-            "bibtex": "@Conference{Hirzinger1993ROTEXST,\n author = {G. Hirzinger and K. Landzettel and J. Heindl},\n booktitle = {Other Conferences},\n title = {ROTEX: space telerobotic flight experiment},\n volume = {2057},\n year = {1993}\n}\n"
-        },
-        "authors": [
-            {
-                "authorId": "1749755",
-                "name": "G. Hirzinger"
-            },
-            {
-                "authorId": "2987899",
-                "name": "K. Landzettel"
-            },
-            {
-                "authorId": "2144820",
-                "name": "J. Heindl"
-            }
-        ]
-    },
-    {
-        "paperId": "004e0a73021acfce63e0d02ff0408a9156fe540b",
-        "externalIds": {
-            "MAG": "3041732756",
-            "DOI": "10.1007/s40899-020-00425-4",
-            "CorpusId": 220439599
-        },
-        "corpusId": 220439599,
-        "publicationVenue": {
-            "id": "0ed4e4b5-917b-4187-bd35-c9dc6b21de92",
-            "name": "Sustainable Water Resources Management",
-            "type": "journal",
-            "alternate_names": [
-                "Sustain Water Resour Manag"
-            ],
-            "issn": "2363-5045",
-            "alternate_issns": [
-                "2363-5037"
-            ],
-            "url": "https://link.springer.com/journal/40899"
-        },
-        "url": "https://www.semanticscholar.org/paper/004e0a73021acfce63e0d02ff0408a9156fe540b",
-        "title": "Surface water detection and delineation using remote sensing images: a review of methods and algorithms",
-        "abstract": null,
-        "venue": "Sustainable Water Resources Management",
-        "year": 2020,
-        "referenceCount": 124,
-        "citationCount": 71,
-        "influentialCitationCount": 2,
-        "isOpenAccess": false,
-        "openAccessPdf": {
-            "url": "",
-            "status": null,
-            "license": null,
-            "disclaimer": "Notice: This paper's abstract has been elided by the publisher. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s40899-020-00425-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s40899-020-00425-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
-        },
-        "fieldsOfStudy": [
-            "Computer Science"
-        ],
-        "s2FieldsOfStudy": [
-            {
-                "category": "Computer Science",
-                "source": "external"
-            },
-            {
-                "category": "Environmental Science",
-                "source": "s2-fos-model"
-            }
-        ],
-        "publicationTypes": [
-            "Review"
-        ],
-        "publicationDate": "2020-07-09",
-        "journal": {
-            "name": "Sustainable Water Resources Management",
-            "pages": "1-23",
-            "volume": "6"
-        },
-        "citationStyles": {
-            "bibtex": "@Article{Bijeesh2020SurfaceWD,\n author = {T. Bijeesh and K. Narasimhamurthy},\n booktitle = {Sustainable Water Resources Management},\n journal = {Sustainable Water Resources Management},\n pages = {1-23},\n title = {Surface water detection and delineation using remote sensing images: a review of methods and algorithms},\n volume = {6},\n year = {2020}\n}\n"
-        },
-        "authors": [
-            {
-                "authorId": "2164098",
-                "name": "T. Bijeesh"
-            },
-            {
-                "authorId": "2006903841",
-                "name": "K. Narasimhamurthy"
-            }
-        ]
-    },
-    {
-        "paperId": "004e1e48c8b5bf4d159d683d722604ee0ba37be1",
-        "externalIds": {
-            "MAG": "3010161961",
-            "DOI": "10.1017/S1751731120000312",
-            "CorpusId": 212567848,
-            "PubMed": "32141423"
-        },
-        "corpusId": 212567848,
-        "publicationVenue": {
-            "id": "3f1b5060-651e-424f-b1be-4bc3c0c052ae",
-            "name": "Animal",
-            "type": "journal",
-            "issn": "1751-7311",
-            "url": "http://www.animal-journal.eu/",
-            "alternate_urls": [
-                "https://www.cambridge.org/core/journals/animal",
-                "http://journals.cambridge.org/action/displayJournal?jid=ANM"
-            ]
-        },
-        "url": "https://www.semanticscholar.org/paper/004e1e48c8b5bf4d159d683d722604ee0ba37be1",
-        "title": "Review: Synergy between mechanistic modelling and data-driven models for modern animal production systems in the era of big data.",
-        "abstract": "Mechanistic models (MMs) have served as causal pathway analysis and 'decision-support' tools within animal production systems for decades. Such models quantitatively define how a biological system works based on causal relationships and use that cumulative biological knowledge to generate predictions and recommendations (in practice) and generate/evaluate hypotheses (in research). Their limitations revolve around obtaining sufficiently accurate inputs, user training and accuracy/precision of predictions on-farm. The new wave in digitalization technologies may negate some of these challenges. New data-driven (DD) modelling methods such as machine learning (ML) and deep learning (DL) examine patterns in data to produce accurate predictions (forecasting, classification of animals, etc.). The deluge of sensor data and new self-learning modelling techniques may address some of the limitations of traditional MM approaches - access to input data (e.g. sensors) and on-farm calibration. However, most of these new methods lack transparency in the reasoning behind predictions, in contrast to MM that have historically been used to translate knowledge into wisdom. The objective of this paper is to propose means to hybridize these two seemingly divergent methodologies to advance the models we use in animal production systems and support movement towards truly knowledge-based precision agriculture. In order to identify potential niches for models in animal production of the future, a cross-species (dairy, swine and poultry) examination of the current state of the art in MM and new DD methodologies (ML, DL analytics) is undertaken. We hypothesize that there are several ways via which synergy may be achieved to advance both our predictive capabilities and system understanding, being: (1) building and utilizing data streams (e.g. intake, rumination behaviour, rumen sensors, activity sensors, environmental sensors, cameras and near IR) to apply MM in real-time and/or with new resolution and capabilities; (2) hybridization of MM and DD approaches where, for example, a ML framework is augmented by MM-generated parameters or predicted outcomes and (3) hybridization of the MM and DD approaches, where biological bounds are placed on parameters within a MM framework, and the DD system parameterizes the MM for individual animals, farms or other such clusters of data. As animal systems modellers, we should expand our toolbox to explore new DD approaches and big data to find opportunities to increase understanding of biological systems, find new patterns in data and move the field towards intelligent, knowledge-based precision agriculture systems.",
-        "venue": "Animal",
-        "year": 2020,
-        "referenceCount": 58,
-        "citationCount": 38,
-        "influentialCitationCount": 0,
-        "isOpenAccess": true,
-        "openAccessPdf": {
-            "url": "https://doi.org/10.1017/s1751731120000312",
-            "status": "HYBRID",
-            "license": "CCBYNCND",
-            "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1017/S1751731120000312?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1017/S1751731120000312, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
-        },
-        "fieldsOfStudy": [
-            "Computer Science",
-            "Medicine"
-        ],
-        "s2FieldsOfStudy": [
-            {
-                "category": "Computer Science",
-                "source": "external"
-            },
-            {
-                "category": "Medicine",
-                "source": "external"
-            },
-            {
-                "category": "Computer Science",
-                "source": "s2-fos-model"
-            },
-            {
-                "category": "Agricultural and Food Sciences",
-                "source": "s2-fos-model"
-            },
-            {
-                "category": "Environmental Science",
-                "source": "s2-fos-model"
-            }
-        ],
-        "publicationTypes": [
-            "JournalArticle",
-            "Review"
-        ],
-        "publicationDate": "2020-03-06",
-        "journal": {
-            "name": "Animal : an international journal of animal bioscience",
-            "pages": "\n          1-15\n        "
-        },
-        "citationStyles": {
-            "bibtex": "@Article{Ellis2020ReviewSB,\n author = {J. Ellis and M. Jacobs and J. Dijkstra and H. H. Laar and J. Cant and D. Tulpan and N. Ferguson},\n booktitle = {Animal},\n journal = {Animal : an international journal of animal bioscience},\n pages = {\n          1-15\n        },\n title = {Review: Synergy between mechanistic modelling and data-driven models for modern animal production systems in the era of big data.},\n year = {2020}\n}\n"
-        },
-        "authors": [
-            {
-                "authorId": "46449736",
-                "name": "J. Ellis"
-            },
-            {
-                "authorId": "145229882",
-                "name": "M. Jacobs"
-            },
-            {
-                "authorId": "145778875",
-                "name": "J. Dijkstra"
-            },
-            {
-                "authorId": "145286249",
-                "name": "H. H. Laar"
-            },
-            {
-                "authorId": "2740643",
-                "name": "J. Cant"
-            },
-            {
-                "authorId": "6184593",
-                "name": "D. Tulpan"
-            },
-            {
-                "authorId": "2066750673",
-                "name": "N. Ferguson"
             }
         ]
     }
